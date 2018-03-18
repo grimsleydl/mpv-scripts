@@ -1,3 +1,6 @@
 [submodule "occivink-mpv-scripts"]
 	path = mpv-scripts
 	url = git@github.com:occivink/mpv-scripts.git
+[submodule "mpv-tools"]
+	path = mpv-tools
+	url = git@github.com:SteveJobzniak/mpv-tools.git
