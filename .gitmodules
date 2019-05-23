@@ -10,3 +10,6 @@
 [submodule "argon-mpv-config"]
 	path = wiiaboo-mpv-scripts
 	url = git@github.com:wiiaboo/mpv-scripts.git
+[submodule "wiiaboo-mpv-scripts"]
+	path = wiiaboo-mpv-scripts
+	url = git@github.com:wiiaboo/mpv-scripts.git
