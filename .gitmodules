@@ -4,12 +4,9 @@
 [submodule "mpv-tools"]
 	path = mpv-tools
 	url = git@github.com:SteveJobzniak/mpv-tools.git
-[submodule "argon-mpv-config"]
-	path = argon-mpv-config
-	url = git@github.com:Argon-/mpv-config.git
-[submodule "argon-mpv-config"]
-	path = wiiaboo-mpv-scripts
-	url = git@github.com:wiiaboo/mpv-scripts.git
 [submodule "wiiaboo-mpv-scripts"]
 	path = wiiaboo-mpv-scripts
 	url = git@github.com:wiiaboo/mpv-scripts.git
+[submodule "argon-mpv-config"]
+	path = argon-mpv-config
+	url = git@github.com:Argon-/mpv-config.git
